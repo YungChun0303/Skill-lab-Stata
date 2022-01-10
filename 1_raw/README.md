@@ -1,2 +1,3 @@
-# This folder contains reduced Pulse Household Survey data from Census. <br />
+# README - Raw
+This folder contains reduced Pulse Household Survey data from Census. <br />
 
